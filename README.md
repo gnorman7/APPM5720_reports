@@ -1,7 +1,7 @@
 # README
 
 This repository is a collection of the seven biweekly reports that I created for APPM 5720: Special Topics: Applied Deep Learning, in Fall 2022, taught by Professor Maziar Raissi.
-The course material is publicly available (here)[https://github.com/maziarraissi/Applied-Deep-Learning].
+The course material is publicly available [here](https://github.com/maziarraissi/Applied-Deep-Learning).
 These reports (along with peer grading other students' reports) formed 100% of my grade in the course.
 The topics are briefly described below:
 
