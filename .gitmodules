@@ -1,3 +1,21 @@
 [submodule "biweekly-report-7-gnorman7"]
 	path = biweekly-report-7-gnorman7
 	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-7-gnorman7.git
+[submodule "biweekly-report-1-gnorman7"]
+	path = biweekly-report-1-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-1-gnorman7.git
+[submodule "biweekly-report-2-gnorman7"]
+	path = biweekly-report-2-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-2-gnorman7.git
+[submodule "biweekly-report-3-gnorman7"]
+	path = biweekly-report-3-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-3-gnorman7.git
+[submodule "biweekly-report-4-gnorman7"]
+	path = biweekly-report-4-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-4-gnorman7.git
+[submodule "biweekly-report-5-gnorman7"]
+	path = biweekly-report-5-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-5-gnorman7.git
+[submodule "biweekly-report-6-gnorman7"]
+	path = biweekly-report-6-gnorman7
+	url = https://github.com/CU-Boulder-APPM-X720-Fall-2022/biweekly-report-6-gnorman7.git
