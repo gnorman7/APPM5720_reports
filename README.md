@@ -6,19 +6,19 @@ These reports (along with peer grading other students' reports) formed 100% of m
 The topics are briefly described below:
 
 
-Report 1. I explore PyTorch's automatic differentiation, investigating back propagation and optimizers for a problem of least-squares linear regression.
+Report 1: I explore PyTorch's automatic differentiation, investigating back propagation and optimizers for a problem of least-squares linear regression.
 
-Report 2. I implement a Convolutional Neural Network for the MNIST digits dataset and discuss dimensionality reduction methods to visualize the loss landscape. I also provide a quick comparison of GPU vs. CPU runtimes for matrix-vector multiplication.
+Report 2: I implement a Convolutional Neural Network for the MNIST digits dataset and discuss dimensionality reduction methods to visualize the loss landscape. I also provide a quick comparison of GPU vs. CPU runtimes for matrix-vector multiplication.
 
-Report 3. I go through a least-squares problem again, this time focusing on the importance of normalizing inputs and touching upon feature engineering. I also discuss classical $L^2$ regularization and Extreme Learning Machines.
+Report 3: I go through a least-squares problem again, this time focusing on the importance of normalizing inputs and touching upon feature engineering. I also discuss classical $L^2$ regularization and Extreme Learning Machines.
 
-Report 4. I load the pretrained SqueezeNet model from PyTorch and demonstrate how image classification models in PyTorch may be used. Then, I create a simple adversarial attack to fool the image classifier.
+Report 4: I load the pretrained SqueezeNet model from PyTorch and demonstrate how image classification models in PyTorch may be used. Then, I create a simple adversarial attack to fool the image classifier.
 
-Report 5. I explore the basics of the hyperparameter tuning library, [Ray Tune] (https://docs.ray.io/en/latest/tune/index.html), focusing on Bayesian Optimization.
+Report 5: I explore the basics of the hyperparameter tuning library, [Ray Tune] (https://docs.ray.io/en/latest/tune/index.html), focusing on Bayesian Optimization.
 
-Report 6. For the Labeled Faces in the Wild dataset, I explore compression and generation methods through the Singular Value Decomposition.
+Report 6: For the Labeled Faces in the Wild dataset, I explore compression and generation methods through the Singular Value Decomposition.
 
-Report 7. Using the Keypoint RCNN model, I briefly investigate the area of pose estimation, specifically for photos of climbers.
+Report 7: Using the Keypoint RCNN model, I briefly investigate the area of pose estimation, specifically for photos of climbers.
 
 
 
