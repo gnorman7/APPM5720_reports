@@ -13,8 +13,11 @@ The topics are briefly described below:
 6. For the Labeled Faces in the Wild dataset, I explore compression and generation methods through the Singular Value Decomposition.
 7. Using the Keypoint RCNN model, I briefly investigate the area of pose estimation, specifically for photos of climbers.
 
-** None of the images or loaded data in any of these reports are mine. The liscense does not necessarily apply to these images or data and the original source should be referenced instead. **
+**None of the images or loaded data in any of these reports are mine. The liscense does not necessarily apply to these images or data and the original source should be referenced instead.**
 
 I have made these reports publically viewable for other students interested in the class, for people starting the field of Machine Learning to reference, and as a set of examples of my own interests.
+
+
+The reports are included as their own repositories and added to this repository through git's submodules. To download all the repositories, add the option `--recurse-submodules` (or `--recursive`) to the `git clone` command.
 
 
