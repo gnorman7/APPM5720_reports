@@ -14,7 +14,7 @@ These reports (along with peer grading other students' reports) formed 100% of m
 
 *Report 4:* I load the pretrained SqueezeNet model from PyTorch and demonstrate how image classification models in PyTorch may be used. Then, I create a simple adversarial attack to fool the image classifier.
 
-*Report 5:* I explore the basics of the hyperparameter tuning library, [Ray Tune] (https://docs.ray.io/en/latest/tune/index.html), focusing on Bayesian Optimization.
+*Report 5:* I explore the basics of the hyperparameter tuning library, [Ray Tune](https://docs.ray.io/en/latest/tune/index.html), focusing on Bayesian Optimization.
 
 *Report 6:* For the Labeled Faces in the Wild dataset, I explore compression and generation methods through the Singular Value Decomposition.
 
